@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QGraphicsView" name="graphicsView">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>801</width>
+     <height>601</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="S1_3">
+   <property name="geometry">
+    <rect>
+     <x>448</x>
+     <y>36</y>
+     <width>82</width>
+     <height>83</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="default">
+    <bool>false</bool>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="S1_4">
+   <property name="geometry">
+    <rect>
+     <x>528</x>
+     <y>36</y>
+     <width>82</width>
+     <height>83</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="default">
+    <bool>false</bool>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="S1_2">
+   <property name="geometry">
+    <rect>
+     <x>368</x>
+     <y>36</y>
+     <width>82</width>
+     <height>83</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="default">
+    <bool>false</bool>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="S1_5">
+   <property name="geometry">
+    <rect>
+     <x>608</x>
+     <y>36</y>
+     <width>82</width>
+     <height>83</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="default">
+    <bool>false</bool>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="S1_6">
+   <property name="geometry">
+    <rect>
+     <x>688</x>
+     <y>36</y>
+     <width>82</width>
+     <height>83</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="default">
+    <bool>false</bool>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="S1_1">
+   <property name="geometry">
+    <rect>
+     <x>288</x>
+     <y>36</y>
+     <width>82</width>
+     <height>83</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="default">
+    <bool>false</bool>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="S2_3">
+   <property name="geometry">
+    <rect>
+     <x>448</x>
+     <y>186</y>
+     <width>82</width>
+     <height>83</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="default">
+    <bool>false</bool>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="S2_4">
+   <property name="geometry">
+    <rect>
+     <x>528</x>
+     <y>186</y>
+     <width>82</width>
+     <height>83</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="default">
+    <bool>false</bool>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="S2_1">
+   <property name="geometry">
+    <rect>
+     <x>288</x>
+     <y>186</y>
+     <width>82</width>
+     <height>83</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="default">
+    <bool>false</bool>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="S2_2">
+   <property name="geometry">
+    <rect>
+     <x>368</x>
+     <y>186</y>
+     <width>82</width>
+     <height>83</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="default">
+    <bool>false</bool>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="S2_6">
+   <property name="geometry">
+    <rect>
+     <x>688</x>
+     <y>186</y>
+     <width>82</width>
+     <height>83</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="default">
+    <bool>false</bool>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="S2_5">
+   <property name="geometry">
+    <rect>
+     <x>608</x>
+     <y>186</y>
+     <width>82</width>
+     <height>83</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="default">
+    <bool>false</bool>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="S3_3">
+   <property name="geometry">
+    <rect>
+     <x>448</x>
+     <y>336</y>
+     <width>82</width>
+     <height>83</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="default">
+    <bool>false</bool>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="S3_4">
+   <property name="geometry">
+    <rect>
+     <x>528</x>
+     <y>336</y>
+     <width>82</width>
+     <height>83</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="default">
+    <bool>false</bool>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="S3_1">
+   <property name="geometry">
+    <rect>
+     <x>288</x>
+     <y>336</y>
+     <width>82</width>
+     <height>83</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="default">
+    <bool>false</bool>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="S3_2">
+   <property name="geometry">
+    <rect>
+     <x>368</x>
+     <y>336</y>
+     <width>82</width>
+     <height>83</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="default">
+    <bool>false</bool>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="S3_6">
+   <property name="geometry">
+    <rect>
+     <x>688</x>
+     <y>336</y>
+     <width>82</width>
+     <height>83</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="default">
+    <bool>false</bool>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="S3_5">
+   <property name="geometry">
+    <rect>
+     <x>608</x>
+     <y>336</y>
+     <width>82</width>
+     <height>83</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="default">
+    <bool>false</bool>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="ButTruskawka">
+   <property name="geometry">
+    <rect>
+     <x>168</x>
+     <y>17</y>
+     <width>82</width>
+     <height>82</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="ButZiemniak">
+   <property name="geometry">
+    <rect>
+     <x>168</x>
+     <y>97</y>
+     <width>82</width>
+     <height>82</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="ButPietruszka">
+   <property name="geometry">
+    <rect>
+     <x>168</x>
+     <y>177</y>
+     <width>82</width>
+     <height>82</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>650</x>
+     <y>560</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="ButOprysk">
+   <property name="geometry">
+    <rect>
+     <x>168</x>
+     <y>257</y>
+     <width>82</width>
+     <height>82</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="ButNawadniarka">
+   <property name="geometry">
+    <rect>
+     <x>168</x>
+     <y>337</y>
+     <width>82</width>
+     <height>82</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="ButUrsus">
+   <property name="geometry">
+    <rect>
+     <x>168</x>
+     <y>417</y>
+     <width>82</width>
+     <height>82</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="ButUrsusX">
+   <property name="geometry">
+    <rect>
+     <x>168</x>
+     <y>497</y>
+     <width>82</width>
+     <height>82</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
