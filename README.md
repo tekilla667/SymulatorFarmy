@@ -5,3 +5,5 @@ Symulator farmy napisany w C++ to gra w stylu farmville. Gracz rozpoczyna grę z
 ## Instalacja
 
 Potrzebny jest Qt5 z biblioteką MinGw
+Stack:
+C++, Qt Forms
